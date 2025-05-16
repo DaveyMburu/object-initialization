@@ -10,6 +10,8 @@ In this lab you will:
 * Create instance variables in the `__init__` method
 * Use default arguments in the `__init__` method  
 
+# Check the index.ipynb file for my workings
+
 ## Initializing Instance Objects
 
 Start off by defining the `Driver` class, similar to as you've done before. This time, define an `__init__` method that initializes a driver with the attributes `first`, `last`, and `occupation` for their first name, last name, and occupation. Provide a default argument of `"driver"` for `occupation`.
